@@ -64,6 +64,12 @@ h1{
 	font-style: italic;
     width:600%;
     font-size: xx-large;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 70px;
+    background-color: red;
 }
 h2,
 h3,
@@ -77,6 +83,7 @@ header {
 	padding: 8px;
 	margin-bottom: 0;
 	font-size: 1.3em;
+	
 }
 .main-right{
     background-color: #b5ead8;
@@ -84,10 +91,14 @@ header {
 	text-justify: auto;
 	image-orientation: flip;
 }
+.main-left{
+	padding: 2rem;
+}
 
 nav {
 	margin-top: 0;
 	text-align: end;
+	justify-items: center;
 }
 
 main div{

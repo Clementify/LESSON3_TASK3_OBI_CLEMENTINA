@@ -15,4 +15,4 @@ Click [Here](https://clementify.github.io/LESSON3_TASK3_OBI_CLEMENTINA/) to view
 - Mr Johnson Promise (JP)
 - Mr Patrick
 
-## This is a work of LM TechHub.
+##This is a work of LM TechHub.
